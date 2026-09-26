@@ -16,8 +16,6 @@ A Python and Boto3 learning project that connects managed AWS AI services into a
 
 ![AWS AI document and audio pipeline architecture](screenshots/architecture.png)
 
-[Open the scalable SVG diagram](screenshots/architecture.svg) · [Diagram source](scripts/build_architecture_diagram.py)
-
 The diagram uses AWS's official architecture icons, embedded locally so it renders without loading external images. [AWS architecture icon guidance](https://aws.amazon.com/architecture/icons/).
 
 ## AWS services and SDK operations
