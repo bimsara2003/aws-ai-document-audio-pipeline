@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Notebook checkpoints and generated notebook output
+.ipynb_checkpoints/
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+.aws/
+.idea/
+aws-icons.zip
+
+# Generated and potentially sensitive data
+output/
+data/
+*.pdf
+*.mp3
+*.wav
