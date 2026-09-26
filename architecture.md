@@ -4,8 +4,6 @@ The project is orchestrated by a Python process running in a SageMaker Jupyter n
 
 ![AWS AI document and audio pipeline architecture](screenshots/architecture.png)
 
-Open the [scalable SVG diagram](screenshots/architecture.svg). The editable diagram source is [build_architecture_diagram.py](scripts/build_architecture_diagram.py); its service icons are stored under [screenshots/aws-icons](screenshots/aws-icons/README.md).
-
 ## Responsibility boundaries
 
 - **SageMaker notebook/Python:** orchestration and presentation; it does not host the AI service APIs.
