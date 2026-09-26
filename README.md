@@ -2,7 +2,6 @@
 
 A Python and Boto3 learning project that connects managed AWS AI services into a document-to-audio workflow.
 
-> Learning project inspired by AWS Skill Builder's **Use AI Services with Amazon SageMaker** practical. The code and documentation here are independently organized for a reusable portfolio repository. No AWS Skill Builder screenshots, lab instructions, credentials, or sample source documents are included.
 
 ## What it does
 
