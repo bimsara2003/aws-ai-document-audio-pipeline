@@ -36,12 +36,8 @@ A Python and Boto3 learning project that connects managed AWS AI services into a
 ├── architecture.md
 ├── requirements.txt
 ├── .gitignore
-├── scripts/
-│   └── build_architecture_diagram.py
 ├── screenshots/
 │   ├── architecture.png
-│   ├── architecture.svg
-│   └── aws-icons/
 └── src/
     └── pipeline.py
 ```
